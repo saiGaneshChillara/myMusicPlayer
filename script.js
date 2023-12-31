@@ -16,11 +16,11 @@ const allSongs = [
         imageSrc: "OscarImage.jpg"
     }, {
         id: 1,
-        title: "A solo Female Song",
-        artist: "Bhargavi",
-        duration: "1:12",
-        src: "./Bhargavi.mpeg",
-        imageSrc: "bhargaviImage.jpg"
+        title: "A Romantic Song",
+        artist: "Varun Behra (Ghurka)",
+        duration: "0:44",
+        src: "./thaagu.ogg",
+        imageSrc: "./thaagu.jpg"
     }, {
         id: 2,
         title: "Super Energetic Song",
